@@ -1,0 +1,18 @@
+Google glass 2014
+
+Google Glass era un dispositivo Android portátil, controlado por voz y movimiento, que se asemejaba a un par de anteojos y mostraba información directamente en el campo de visión del usuario. 
+
+Movimiento en vistas 2006
+
+Las técnicas de movimiento en vistas, en el contexto de la cinematografía y la fotografía, se refieren a los movimientos que se pueden realizar con la cámara para capturar una escena de manera dinámica y creativa. Existen diferentes tipos de movimientos, incluyendo panorámicas, zooms, desplazamientos (dolly) y movimientos de la lente (tilt). 
+
+Primera versión de Google earth -2005
+
+2005 la primera versión de google earth fue lanzada, un programa capaz de mostrar una versión virtual del mundo formado por fotos satelitales y gráficos hechos por computadora para mostrar planos más alejados
+
+Lanzamiento de PS3 2006
+Sony lanza la PlayStation 3 que soporta gráficos de alta definición
+
+Motor grafico unity 2018 
+
+En el motor gráfico destacan el llamado Scriptable Render Pipeline, el cual permite a los programadores, gracias al sistema de renderizado y arquitectura de Unity, otorgar más control y posibilidades a los desarrolladores
